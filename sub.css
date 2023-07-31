@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+#title{
+    font-size:60px;
+    color:red;
+}
+
+#first_img{
+    width:100vw;
+}
+
+#first_para{
+    font-family:monospace;
+    font-size:40px;
+    color:aquamarine
+}
+
+#second_img{
+    width:100vw;
+}
+
+#second_para{
+    font-family:monospace;
+    font-size:40px;
+    color:aquamarine
+}
+
+#third_img{
+    width:100vw;
+}
+
+#third_para{
+    font-family:monospace;
+    font-size:40px;
+    color:aquamarine
+}
+
+#fourth_img{
+    width:100vw;
+}
+
+#fourth_para{
+    font-family:monospace;
+    font-size:40px;
+    color:aquamarine
+}

@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+#main_top_img{
+    width:100vw;
+}
+
+.box{
+    position:relative;
+}
+#top{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    font-size:150%;
+    color:yellow;}
+
+.no-mark{
+    list-style:none;
+    line-height:50px;
+    font-family:monospace;
+    font-size: 30px;
+    color:blue;
+}
+
+.top_class{
+    font-size:40px;
+    color:purple}
+
+.top_class_p{
+    font-size:20px;
+}
+
+.section-header{
+    font-size:40px;
+    color:aquamarine
+}
+
+.trip_1{
+    list-style:none;
+    font-size:20px;
+    color:blueviolet;
+
+}
+
+.site_image{
+    width:100vw;
+
+}
+
+
+
+
